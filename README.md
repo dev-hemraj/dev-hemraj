@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Hem Raj Bhatt </h1>
 <h3 align="center"> 7+ years of experience in  Frontend Developer. </h3>
-<p>💻 Passionate about building clean UI, pixel-perfect layouts, and modern React-based web apps</p>
+<p align="center">💻 Passionate about building clean UI, pixel-perfect layouts, and modern React-based web apps</p>
 
 <!-- Developer Hub section start -->
 <h3 align="left">&#128187;🧠 Skills & Stack :</h3>
