@@ -3,23 +3,34 @@
 
 <h1 align="center">Hi 👋, I'm Hem Raj Bhatt </h1>
 <h3 align="center"> 7+ years of experience in  Frontend Developer. </h3>
+<p>💻 Passionate about building clean UI, pixel-perfect layouts, and modern React-based web apps</p>
 
 <!-- Developer Hub section start -->
-<h3 align="left">&#128187; Development Hub / Skills :</h3>
+<h3 align="left">&#128187;🧠 Skills & Stack :</h3>
 
 
-**Progamming languages :**
+**🔧Progamming languages :**
+
+![HTML5](...) ![CSS3](...) ![JavaScript](...)
+![SCSS](...) ![WordPress](...) ![ACF](...)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![SCSS](https://img.shields.io/badge/scss-%23CD6799.svg?style=for-the-badge&logo=sass&logoColor=white)
+![WordPress](https://img.shields.io/badge/wordpress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+![ACF](https://img.shields.io/badge/ACF-Advanced%20Custom%20Fields-%230073aa?style=for-the-badge&logo=wordpress&logoColor=white)
 
-**Frameworks & Libraries :**
+
+**📦Frameworks & Libraries :**
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Swiper JS](https://img.shields.io/badge/Swiper.js-%23000000.svg?style=for-the-badge&logo=swiper&logoColor=white)
+![Slick Slider](https://img.shields.io/badge/Slick%20Slider-%23696969.svg?style=for-the-badge&logo=react&logoColor=white)
 
-**Software and Tools :**
+
+**🛠 Development Tools :**
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
