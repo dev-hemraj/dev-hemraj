@@ -11,8 +11,6 @@
 
 **🔧Progamming languages :**
 
-![HTML5](...) ![CSS3](...) ![JavaScript](...)
-![SCSS](...) ![WordPress](...) ![ACF](...)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -72,4 +70,9 @@
  
  
 
+<!-- footer section start -->
+<hr>
+<p align="center"> Thanks for going through my personal Portfolio .
+All rights reserved  :red_heart: <a href="https://www.linkedin.com/in/hemrajdev/">Hem Raj bhatt</a> @  2025 </p>
+<!-- footer section end -->
  
